@@ -1,0 +1,41 @@
+			body{
+				text-align: center;
+				font-size: 12px;
+			}
+			table, tr, td{
+				border: 2px solid black;
+				font-size: 14px;
+				border-radius: 4px;
+				padding: 5px;
+			}
+			.dias{
+				color:blue;	
+				background-color: lightGray;
+			}
+			.ti1{
+				background-color: #FF0000;
+			}
+			.tic1{
+				background-color: orange;
+			}
+			.tic2{
+				background-color: rgb(0,255,0);
+			}
+			.tecno31{
+				background-color: lightBlue;
+			}
+			.tecno32{
+				background-color: yellow;
+			}
+			.pi{
+				background-color: pink;
+			}
+			.guardia{
+				background-color: violet;
+			}
+			.recreo{
+				background-color: white;
+				font-size: 10px;
+			}
+		    
+			
